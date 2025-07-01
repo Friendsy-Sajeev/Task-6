@@ -1,10 +1,10 @@
-# 🔐 Task 6: Password Strength Evaluation & Security Practices
+#  Task 6: Password Strength Evaluation & Security Practices
 
 This task involves evaluating the strength of different passwords using password strength checkers, identifying good practices, and understanding how password complexity affects overall security.
 
 ---
 
-## ✅ 1. Passwords with Varying Complexity
+##  1. Passwords with Varying Complexity
 
 | Password            | Complexity                  |
 |---------------------|------------------------------|
@@ -16,7 +16,7 @@ This task involves evaluating the strength of different passwords using password
 
 ---
 
-## ✅ 2. Elements Used in Passwords
+##  2. Elements Used in Passwords
 
 | Element    | Example Used        |
 |------------|---------------------|
@@ -28,7 +28,7 @@ This task involves evaluating the strength of different passwords using password
 
 ---
 
-## ✅ 3. Password Strength Checker Results
+##  3. Password Strength Checker Results
 
 | Password         | Cracking Time        | Feedback |
 |------------------|----------------------|----------|
@@ -40,7 +40,7 @@ This task involves evaluating the strength of different passwords using password
 
 ---
 
-## ✅ 4. Best Practices for Creating Strong Passwords
+##  4. Best Practices for Creating Strong Passwords
 
 - Use **at least 12–16 characters**
 - Combine **uppercase, lowercase, numbers, and symbols**
@@ -51,7 +51,7 @@ This task involves evaluating the strength of different passwords using password
 
 ---
 
-## ✅ 5. Tips Learned from Evaluation
+##  5. Tips Learned from Evaluation
 
 - Longer passwords are **exponentially harder to brute-force**
 - Common patterns like `Password123!` are still weak
@@ -60,7 +60,7 @@ This task involves evaluating the strength of different passwords using password
 
 ---
 
-## ✅ 6. Common Password Attack Methods
+##  6. Common Password Attack Methods
 
 | Attack Type         | Description                                     |
 |----------------------|-------------------------------------------------|
@@ -72,7 +72,7 @@ This task involves evaluating the strength of different passwords using password
 
 ---
 
-## ✅ 7. How Password Complexity Affects Security
+##  7. How Password Complexity Affects Security
 
 - The **more complex** and **longer** a password is, the **more secure** it becomes
 - Example:
@@ -84,7 +84,7 @@ This task involves evaluating the strength of different passwords using password
 
 ---
 
-## ✅ Summary
+##  Summary
 
 Understanding and implementing password complexity is crucial in defending against the most common and effective password attacks. By using strong, unique, and complex passwords, users greatly enhance their online security posture.
 
